@@ -1,0 +1,7 @@
+C:\Users\james.lane\RubikCube\RubikCube\bin\Debug\RubikCube.exe.config
+C:\Users\james.lane\RubikCube\RubikCube\bin\Debug\RubikCube.exe
+C:\Users\james.lane\RubikCube\RubikCube\bin\Debug\RubikCube.pdb
+C:\Users\james.lane\RubikCube\RubikCube\obj\Debug\RubikCube.csproj.AssemblyReference.cache
+C:\Users\james.lane\RubikCube\RubikCube\obj\Debug\RubikCube.csproj.CoreCompileInputs.cache
+C:\Users\james.lane\RubikCube\RubikCube\obj\Debug\RubikCube.exe
+C:\Users\james.lane\RubikCube\RubikCube\obj\Debug\RubikCube.pdb
